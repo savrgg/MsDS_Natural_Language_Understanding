@@ -1,0 +1,200 @@
+side.n 301 :: edge
+side.n 302 :: flank
+side.n 303 :: hand
+side.n 304 :: edge
+side.n 305 :: hand
+side.n 306 :: edge
+side.n 307 :: 
+side.n 308 :: hand
+side.n 309 :: hand
+side.n 310 :: boundary
+tell.v 311 :: explain
+tell.v 312 :: explain
+tell.v 313 :: 
+tell.v 314 :: assure
+tell.v 315 :: order
+tell.v 316 :: explain
+tell.v 317 :: 
+tell.v 318 :: 
+tell.v 319 :: 
+tell.v 320 :: explain
+terrible.a 321 :: bad
+terrible.a 322 :: bad
+terrible.a 323 :: dreadful
+terrible.a 324 :: 
+terrible.a 325 :: bad
+terrible.a 326 :: awful
+terrible.a 327 :: 
+terrible.a 328 :: 
+terrible.a 329 :: bad
+terrible.a 330 :: 
+think.v 331 :: suppose
+think.v 332 :: suppose
+think.v 333 :: expect
+think.v 334 :: suppose
+think.v 335 :: 
+think.v 336 :: suppose
+think.v 337 :: suppose
+think.v 338 :: suppose
+think.v 339 :: suppose
+think.v 340 :: suppose
+thus.r 341 :: therefore
+thus.r 342 :: hence
+thus.r 343 :: therefore
+thus.r 344 :: therefore
+thus.r 345 :: therefore
+thus.r 346 :: therefore
+thus.r 347 :: therefore
+thus.r 348 :: therefore
+thus.r 349 :: therefore
+thus.r 350 :: therefore
+wind.n 351 :: air
+wind.n 352 :: air
+wind.n 353 :: breeze
+wind.n 354 :: air
+wind.n 355 :: breeze
+wind.n 356 :: breeze
+wind.n 357 :: 
+wind.n 358 :: 
+wind.n 359 :: 
+wind.n 360 :: air
+charge.v 361 :: accuse
+charge.v 362 :: ask
+charge.v 363 :: accuse
+charge.v 364 :: 
+charge.v 365 :: 
+charge.v 366 :: levy
+charge.v 367 :: cost
+charge.v 368 :: accuse
+charge.v 369 :: levy
+charge.v 370 :: accuse
+civil.a 371 :: public
+civil.a 372 :: public
+civil.a 373 :: public
+civil.a 374 :: public
+civil.a 375 :: domestic
+civil.a 376 :: personal
+civil.a 377 :: 
+civil.a 378 :: public
+civil.a 379 :: public
+civil.a 380 :: civic
+clean.v 381 :: 
+clean.v 382 :: wash
+clean.v 383 :: tidy
+clean.v 384 :: tidy
+clean.v 385 :: tidy
+clean.v 386 :: tidy
+clean.v 387 :: tidy
+clean.v 388 :: tidy
+clean.v 389 :: tidy
+clean.v 390 :: tidy
+coach.n 391 :: bus
+coach.n 392 :: 
+coach.n 393 :: trainer
+coach.n 394 :: bus
+coach.n 395 :: trainer
+coach.n 396 :: bus
+coach.n 397 :: bus
+coach.n 398 :: bus
+coach.n 399 :: bus
+coach.n 400 :: bus
+dry.a 401 :: flat
+dry.a 402 :: flat
+dry.a 403 :: flat
+dry.a 404 :: flat
+dry.a 405 :: 
+dry.a 406 :: flat
+dry.a 407 :: 
+dry.a 408 :: flat
+dry.a 409 :: flat
+dry.a 410 :: flat
+full.a 411 :: ample
+full.a 412 :: top
+full.a 413 :: ample
+full.a 414 :: ample
+full.a 415 :: complete
+full.a 416 :: big
+full.a 417 :: highest
+full.a 418 :: 
+full.a 419 :: complete
+full.a 420 :: 
+heap.n 421 :: 
+heap.n 422 :: bundle
+heap.n 423 :: bundle
+heap.n 424 :: 
+heap.n 425 :: bundle
+heap.n 426 :: mound
+heap.n 427 :: bin
+heap.n 428 :: bin
+heap.n 429 :: state
+heap.n 430 :: bundle
+job.n 431 :: employment
+job.n 432 :: 
+job.n 433 :: business
+job.n 434 :: bit
+job.n 435 :: bit
+job.n 436 :: bit
+job.n 437 :: employment
+job.n 438 :: employment
+job.n 439 :: business
+job.n 440 :: bit
+late.r 441 :: behind
+late.r 442 :: behind
+late.r 443 :: behind
+late.r 444 :: behind
+late.r 445 :: recently
+late.r 446 :: behind
+late.r 447 :: behind
+late.r 448 :: recently
+late.r 449 :: behind
+late.r 450 :: behind
+new.a 451 :: other
+new.a 452 :: other
+new.a 453 :: other
+new.a 454 :: recent
+new.a 455 :: other
+new.a 456 :: other
+new.a 457 :: other
+new.a 458 :: other
+new.a 459 :: other
+new.a 460 :: other
+often.r 461 :: generally
+often.r 462 :: commonly
+often.r 463 :: generally
+often.r 464 :: commonly
+often.r 465 :: generally
+often.r 466 :: usually
+often.r 467 :: usually
+often.r 468 :: usually
+often.r 469 :: usually
+often.r 470 :: occasionally
+only.r 471 :: barely
+only.r 472 :: barely
+only.r 473 :: just
+only.r 474 :: 
+only.r 475 :: barely
+only.r 476 :: recently
+only.r 477 :: barely
+only.r 478 :: barely
+only.r 479 :: just
+only.r 480 :: just
+pulse.n 481 :: heart
+pulse.n 482 :: heart
+pulse.n 483 :: heart
+pulse.n 484 :: heart
+pulse.n 485 :: beat
+pulse.n 486 :: 
+pulse.n 487 :: energy
+pulse.n 488 :: energy
+pulse.n 489 :: 
+pulse.n 490 :: heart
+put.v 491 :: settle
+put.v 492 :: lay
+put.v 493 :: settle
+put.v 494 :: settle
+put.v 495 :: settle
+put.v 496 :: settle
+put.v 497 :: settle
+put.v 498 :: lay
+put.v 499 :: settle
+put.v 500 :: lay

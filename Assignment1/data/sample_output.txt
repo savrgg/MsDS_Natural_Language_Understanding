@@ -1,0 +1,30 @@
+side.n 301 :: edge
+side.n 302 :: shore
+side.n 303 :: 
+side.n 304 :: edge
+side.n 305 :: hand
+side.n 306 :: edge
+side.n 308 :: shore
+side.n 309 :: 
+side.n 310 :: shore
+tell.v 311 :: explain
+tell.v 312 :: explain
+tell.v 313 :: 
+tell.v 314 :: order
+tell.v 315 :: communicate
+tell.v 316 :: assure
+tell.v 317 :: explain
+tell.v 318 :: 
+tell.v 319 :: explain
+tell.v 320 :: communicate
+terrible.a 321 :: awful
+terrible.a 322 :: dreadful
+terrible.a 323 :: 
+terrible.a 324 :: severe
+terrible.a 325 :: horrible
+terrible.a 326 :: 
+terrible.a 328 :: appalling
+terrible.a 329 :: awful
+terrible.a 330 :: 
+think.v 331 :: feel
+think.v 332 :: 

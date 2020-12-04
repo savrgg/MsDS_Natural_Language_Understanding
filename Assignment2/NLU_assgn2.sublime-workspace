@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rn",
+				"rnn.py"
+			],
+			[
+				"rnn",
+				"rnnmath.py"
+			],
+			[
+				"arra",
+				"np.array"
+			],
+			[
+				"x_val",
+				"x_val_sigmoid"
+			],
+			[
+				"beta_lin",
+				"beta_linreg_gradopt"
+			],
+			[
+				"grama",
+				"grammar2"
+			],
+			[
+				"curr",
+				"curr_classes2"
+			],
+			[
+				"cur",
+				"curr_line2"
+			],
+			[
+				"student_",
+				"students_mark"
+			],
+			[
+				"curr_",
+				"curr_line"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"tok",
+				"token_max"
+			],
+			[
+				"probabil",
+				"probabilities"
+			],
+			[
+				"ngr",
+				"ngram_minus1_counts"
+			],
+			[
+				"ngram",
+				"ngram_minus1"
+			],
+			[
+				"mat",
+				"matplotlib"
+			],
+			[
+				"letras",
+				"letras_sort"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": ": \n\nIn [56]: \n\nIn [56]: \n\nIn [56]: ",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "$~\n$~\n$~\n$~\n$~python rnn.py estimate ./data/",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Unix",
+				"name": "*REPL* [shell]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 284.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"viru",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"",
+				"Virtualenv: Add directory"
+			],
+			[
+				"virtualenv: A",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtuale\t",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: New"
+			],
+			[
+				"octa",
+				"SublimeREPL: Octave"
+			],
+			[
+				"oc",
+				"SublimeREPL: Octave"
+			],
+			[
+				"octave",
+				"SublimeREPL: Octave"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"octav",
+				"SublimeREPL: Octave"
+			],
+			[
+				"bas",
+				"SublimeREPL: Shell - Bash"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell - Bash"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - Python"
+			],
+			[
+				"bash",
+				"SublimeREPL: Shell - Bash"
+			],
+			[
+				":python",
+				"SublimeREPL: Python - Python"
+			],
+			[
+				":shell",
+				"SublimeREPL: Shell - Bash"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"latex\t",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"R ",
+				"Set Syntax: R"
+			],
+			[
+				"R",
+				"Set Syntax: R Console"
+			],
+			[
+				"REPL R",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/data",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/latex_files",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/report"
+	],
+	"file_history":
+	[
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/Assignment2.tex",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/rnnmath.py",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/test.py",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/rnn.py",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/*REPL* [python]",
+		"/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2/utils.py",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/salvadorgarcia/Movies/Emma Watson PACK/IMG_7779.JPG",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/Project1/Coversheet.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/Project1/Report1.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/Project1/ref.bib",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/Project1/Report1.fdb_latexmk",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/12_Assignment2/Assignment2.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_2_OBD/Assignment3/probability_tree.jl",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/salvadorgarcia/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/salvadorgarcia/Downloads/DSB3Tutorial/tutorial_code/LUNA_mask_extraction.py",
+		"/Users/salvadorgarcia/Downloads/DSB3Tutorial/DSB3.sublime-project",
+		"/Users/salvadorgarcia/Repositories/UoE_2_NLU/Assignment1/word2vec",
+		"/Users/salvadorgarcia/Repositories/UoE_2_NLU/Assignment1/test.txt",
+		"/Users/salvadorgarcia/Repositories/UoE_2_NLU/Assignment1/data/test.txt",
+		"/Users/salvadorgarcia/Repositories/UoE_2_NLU/Assignment1/data/accuracy_test.txt",
+		"/Users/salvadorgarcia/WinBUGS14_immortality_key.txt",
+		"/Users/salvadorgarcia/Documents/Final-assignment.R",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/21_Stan_test/8schools.stan",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/21_Stan_test/01_Intro.R",
+		"/Users/salvadorgarcia/Assignment3_WinBUGS/Init_HierarchAssignment3.odc",
+		"/Users/salvadorgarcia/.wine/drive_c/Bugs/UoE_BDA/Example1/drug-model.odc",
+		"/Users/salvadorgarcia/Downloads/WinBUGSexercise1 2/Sample_Script.rtf",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/ReportTemplate.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_2_BDA/01_Exercise1/Exercise1.tex",
+		"/Users/salvadorgarcia/Downloads/Final-assignment.R",
+		"/Users/salvadorgarcia/Repositories/UoE_dissertation/report/references.bib",
+		"/Users/salvadorgarcia/Repositories/UoE_dissertation/report/main.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_dissertation/report/main.log",
+		"/Users/salvadorgarcia/Repositories/UoE_dissertation/report/main.bbl",
+		"/Users/salvadorgarcia/Downloads/Backup-codes-sgarciagonz27.txt",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q6_2_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q0_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q1_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q2_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q3_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q4_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q5_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/Q6_assgn2.matlab",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/main.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/main.fls",
+		"/Users/salvadorgarcia/Downloads/prueba.tex",
+		"/Users/salvadorgarcia/Downloads/prueba.bbl",
+		"/Users/salvadorgarcia/Downloads/references.bi",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/references.bib",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/imgs/graphs_y.png",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/nn_cost.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/fit_nn_gradopt.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/main.bbl",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/fit_logreg_gradopt.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/report/imgs/histogram",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/01_assn2.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/prueba_1.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/linreg_cost.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/logreg_cost.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/src/functions/pca_zm_proj.m",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/MLPR_assgn2.sublime-project",
+		"/Users/salvadorgarcia/Repositories/RP_tesis/RP_TraceRatio_Optimization/reports/Latex/main.tex",
+		"/Users/salvadorgarcia/Repositories/UoE_MLPR/assignment2/.gitignore",
+		"/Users/salvadorgarcia/Repositories/Natural-Language-Processing/Delete.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cky_10_regex.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cky_10.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/ass2_10.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cky_10_v1.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/*REPL* [shell]",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cky.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/ass2.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/*REPL* [python]",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cky_print.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/cfg_fix.py",
+		"/Users/salvadorgarcia/Repositories/RP_anlp/assignment2/ckg_fix.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex8/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex7/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex6/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex5/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex4/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex3/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex2/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex1/exec.sh",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex8/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex4/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex5/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex8/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex6/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex6/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex5/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex5/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex4/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex4/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex2/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex2/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex8/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex7/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex7/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex7/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex3/reducer.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex3/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex2/test2.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex1/mapper.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex6/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex8/part-00000",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex7/command.py",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex3/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex1/test.txt",
+		"/Users/salvadorgarcia/Repositories/RP_exc/assignment1/ex1/exec.py",
+		"/Users/salvadorgarcia/Repositories/RP_mlpr/MLPR_Assignments/assignment1/source/01_mungeData.m",
+		"/Users/salvadorgarcia/Repositories/RP_mlpr/MLPR_Assignments/assignment1/*REPL* [octave]",
+		"/Users/salvadorgarcia/Repositories/anlp/assignment1/source/task4-5.py",
+		"/Users/salvadorgarcia/Repositories/anlp/assignment1/source/task7.py",
+		"/Users/salvadorgarcia/Repositories/anlp/assignment1/source/task6.py",
+		"/Users/salvadorgarcia/Downloads/ltimasversionesdetodoanlp/task7.py",
+		"/Users/salvadorgarcia/Downloads/ltimasversionesdetodoanlp/task4-5.py",
+		"/Users/salvadorgarcia/Downloads/ltimasversionesdetodoanlp/task6.py",
+		"/Users/salvadorgarcia/Desktop/prueba.rb",
+		"/Users/salvadorgarcia/Desktop/prueba.ii",
+		"/Users/salvadorgarcia/Desktop/prueba.pz"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"T*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"hay",
+			"run_loss",
+			"adjust_loss",
+			"adjust_lo",
+			"adjust",
+			"vocab",
+			"searchsorted",
+			"vocab.index",
+			"vocab.inde",
+			"vocab.index",
+			"perpl",
+			"dev_size",
+			"minim",
+			"RNN(",
+			"RR(",
+			"RR",
+			"hdim",
+			"hidden",
+			"best_params",
+			"hidden",
+			"RNN(",
+			"RNN",
+			"hidden",
+			"acc_deltas_bptt",
+			"train(",
+			"learning",
+			"acc_deltas_bptt",
+			"load",
+			"apply_deltas",
+			"apply deltas",
+			"autocomp",
+			"one hot",
+			"conclusions",
+			"35",
+			"with with",
+			"y_pred",
+			"blue point",
+			" phi",
+			"and als",
+			"reparamet",
+			"reparamete",
+			"reparameter",
+			"sidebar",
+			"section",
+			"1:",
+			"4999:",
+			"age",
+			"cref",
+			"high variance",
+			"\"",
+			"figure",
+			"figur",
+			"Therefore, it is important to find a way to",
+			"}\n",
+			"; ",
+			"detect",
+			"Gaussian prior distributions,",
+			"neural networks with ",
+			"and on",
+			"modelled",
+			"\"",
+			"found",
+			"different prior",
+			"Laplace",
+			"bishop",
+			"'",
+			"porpoise",
+			"porpoises",
+			"porpoises ",
+			"Nato",
+			"footnote",
+			"Jensen",
+			"jensen",
+			"the methods",
+			"the methods reli",
+			"the method relies",
+			"this method have",
+			"modeled",
+			"references",
+			"dependenc",
+			"this fact",
+			"\\begin{figure}[h!]",
+			"figure",
+			"predicted vs observed",
+			"the training error goes",
+			"\\begin{table}[ht!]",
+			"table",
+			"figure",
+			"y_",
+			"decr",
+			"decreas",
+			"\\cref",
+			"\\begin{figure}[h!]",
+			"\\ref",
+			"Invented",
+			"breakpage",
+			"getting",
+			"1176",
+			"size",
+			"fit_linreg_",
+			"fit_linreg",
+			"linreg",
+			"X_test",
+			"X_val",
+			"Y_val",
+			"Y_test",
+			"Y_train",
+			"X_train",
+			"!h",
+			"imgs",
+			"()\n",
+			"Tree",
+			"pop",
+			"N2sc",
+			"N3",
+			"PP",
+			"addLabel",
+			"NP0",
+			"Nsc",
+			"N2sc",
+			"n2sc",
+			"print",
+			"addLabel",
+			"unaryupdate",
+			"CKY.pprint",
+			"log",
+			"unary"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\textless s\\textgreater",
+			"large variance",
+			"modeled",
+			"modelled",
+			"Predicted vs observed(training)",
+			"\\cref",
+			"pagebreak",
+			"x_test",
+			"x_val",
+			"y_val",
+			"y_test",
+			"y_train",
+			"x_train",
+			"cont",
+			"prev_line",
+			"prev_lina",
+			"curr_line",
+			"prev_line",
+			"cont",
+			"suma_bi",
+			"suma_tri",
+			"tri",
+			"\\Tr",
+			"3.13",
+			"3.12",
+			"3.11",
+			"3.10",
+			"3.9",
+			"3.8",
+			"3.7",
+			"3.6",
+			"3.5",
+			"3.4",
+			"3.3",
+			"3.2",
+			"3.1",
+			"fig5",
+			"conglomerado",
+			"Project",
+			"MNIST",
+			"u",
+			"o",
+			"n",
+			"u",
+			"o",
+			"u",
+			"o",
+			"u",
+			"o",
+			"",
+			"A",
+			"B"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"default_dir": "/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "99f1c11c84154f11a54af3a982948df7",
+							"repl_restart_args":
+							{
+								"autocomplete_server": true,
+								"cmd":
+								[
+									"python",
+									"-u",
+									"${packages}/SublimeREPL/config/Python/ipy_repl.py"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"external_id": "python",
+								"suppress_echo": false,
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"default_dir": "/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "shell",
+							"repl_id": "b751ad8d7fac48dd8ca4d788f27fe75e",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"/bin/bash",
+									"-i"
+								],
+								"cmd_postfix": "\n",
+								"cwd": "$file_path",
+								"encoding": "utf-8",
+								"env":
+								{
+								},
+								"external_id": "shell",
+								"suppress_echo": true,
+								"syntax": "Packages/Text/Plain text.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"default_dir": "/Users/salvadorgarcia/Repositories/RP_edinburgh_master/NLU/Assignment2",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.695950726526,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.692151256443,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "NLU_assgn2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Report1.fdb_latexmk"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Repositories/UoE_EC/assignment2/EC_assgn2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

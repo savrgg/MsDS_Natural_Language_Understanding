@@ -1,0 +1,169 @@
+scrap.n	bit.n album.n fragment.n rubbish.n waste.n remainder.n recycling.n piece.n
+informal.a	ordinary.a spontaneous.a friendly.a relaxed.a casual.a everyday.a
+yet.r	lately.r still.r however.r before.r hitherto.r nevertheless.r already.r
+show.v	come.v guide.v play.v give.v illustrate.v appear.v exhibit.v reveal.v present.v indicate.v picture.v offer.v instruct.v depict.v display.v
+range.n	span.n collection.n gallery.n access.n scope.n variety.n series.n array.n selection.n coverage.n choice.n run.n distance.n extent.n area.n limit.n spread.n
+burst.v	break.v split.v rush.v pop.v run.v surprise.v end.v cover.v leap.v push.v descend.v bounce.v explode.v
+near.r	practically.r about.r approximately.r closely.r almost.r virtually.r close.r nearly.r
+profound.a	acute.a huge.a significant.a intense.a important.a deep.a intellectual.a wise.a extensive.a keen.a great.a serious.a thorough.a complex.a thoughtful.a
+steady.a	firm.a gradual.a continuous.a regular.a constant.a sure.a fixed.a persistent.a solid.a stable.a
+carry.v	send.v contain.v use.v perform.v accomplish.v bear.v convey.v complete.v bring.v deploy.v transport.v transmit.v take.v fulfil.v clutch.v undertake.v hold.v pack.v do.v drag.v conclude.v execute.v
+wind.v	proceed.v twist.v bend.v tease.v progress.v end.v weave.v choke.v mislead.v tighten.v wrap.v
+truly.r	strictly.r absolutely.r perfectly.r actually.r fully.r definitely.r really.r honestly.r genuinely.r undoubtedly.r
+softly.r	carefully.r slightly.r faintly.r gently.r quietly.r lightly.r
+investigator.n	inspector.n official.n researcher.n detective.n officer.n
+blow.n	thrust.n shock.n hit.n wind.n punch.n movement.n knock.n attack.n air.n setback.n criticism.n disaster.n strike.n hair.n reverse.n
+worldwide.a	international.a global.a total.a universal.a
+therefore.r	accordingly.r hence.r so.r thus.r consequently.r
+ring.n	tone.n holder.n level.n circle.n sound.n orbit.n group.n association.n shadow.n call.n feel.n loop.n band.n chain.n bell.n network.n
+apparently.r	seemingly.r clearly.r plainly.r obviously.r evidently.r
+strong.a	distinct.a capable.a heavy.a firm.a intense.a powerful.a dark.a good.a convincing.a secure.a keen.a vigorous.a healthy.a effective.a persuasive.a potent.a clear.a high.a solid.a tough.a sound.a compelling.a bitter.a
+check.v	inspect.v report.v note.v tick.v examine.v submit.v put.v admit.v investigate.v confirm.v survey.v register.v search.v select.v mark.v test.v
+return.v	retrieve.v earn.v make.v revert.v go.v get.v produce.v resume.v yield.v repeat.v realize.v
+endure.v	bear.v continue.v persist.v undergo.v suffer.v have.v tolerate.v experience.v last.v
+put.v	send.v give.v place.v fasten.v position.v fix.v present.v allow.v provide.v collect.v make.v express.v leave.v advance.v settle.v propose.v remove.v gather.v dismiss.v state.v get.v join.v assemble.v stick.v lay.v set.v
+get.v	travel.v persuade.v fetch.v bring.v give.v become.v acquire.v gain.v reach.v achieve.v go.v obtain.v receive.v have.v buy.v convince.v
+drop.v	send.v lower.v write.v throw.v abandon.v release.v dump.v relinquish.v decline.v leave.v deliver.v fall.v stop.v omit.v weigh.v terminate.v pause.v
+open.a	exposed.a empty.a wide.a alert.a working.a green.a available.a aware.a free.a susceptible.a clear.a accessible.a
+coach.n	car.n carriage.n teacher.n counsellor.n instructor.n trainer.n transport.n bus.n tutor.n
+shot.n	photograph.n move.n picture.n manoeuvre.n hit.n photo.n injection.n drive.n bullet.n aim.n stroke.n attempt.n portrait.n ammunition.n discharge.n strike.n round.n play.n noise.n blast.n
+account.n	access.n explanation.n subscription.n balance.n facility.n description.n asset.n consideration.n narrative.n report.n fund.n statement.n finance.n
+quick.a	brief.a swift.a short.a rapid.a keen.a express.a fast.a immediate.a
+let.v	free.v hire.v authorise.v release.v rent.v permit.v diminish.v lessen.v forgive.v advise.v lease.v inform.v allow.v reduce.v have.v tell.v give.v
+pull.v	withdraw.v attract.v draw.v push.v rip.v manipulate.v park.v read.v shift.v squeeze.v stop.v haul.v drag.v stretch.v move.v extract.v wrench.v remove.v tug.v heave.v request.v
+rest.n	service.n balance.n convenience.n remains.n stand.n remainder.n base.n leisure.n comfort.n break.n stick.n support.n sleep.n
+forth.r	forward.r on.r about.r across.r onwards.r forwards.r out.r
+likewise.r	equally.r similarly.r also.r
+heavy.a	massive.a harsh.a frequent.a dark.a serious.a strongest.a regular.a excessive.a big.a fat.a strong.a difficult.a extensive.a ample.a substantial.a tough.a costly.a wild.a hard.a worst.a constant.a considerable.a tedious.a severe.a
+vital.a	crucial.a fundamental.a important.a integral.a necessary.a critical.a essential.a
+execution.n	operation.n transaction.n application.n killing.n administration.n implementation.n performance.n production.n completion.n enforcement.n running.n method.n death.n discharge.n
+so.r	that.r about.r consequently.r approximately.r very.r as.r thus.r therefore.r this.r hence.r likewise.r
+below.r	later.r underneath.r
+good.a	decent.a comfortable.a full.a pleasant.a substantial.a nice.a large.a healthy.a effective.a enjoyable.a significant.a respectable.a easy.a favourable.a satisfactory.a beneficial.a minimum.a reasonable.a happy.a excellent.a considerable.a fun.a competent.a thorough.a
+pulse.n	centre.n wave.n vibration.n sound.n stimulus.n heart.n force.n beat.n energy.n rhythm.n
+strike.v	begin.v hit.v cast.v take.v affect.v hammer.v surprise.v thrust.v bump.v achieve.v start.v impress.v occur.v bang.v get.v knock.v move.v carve.v make.v fail.v find.v
+make.v	create.v write.v turn.v produce.v do.v change.v complete.v form.v succeed.v commit.v take.v construct.v affect.v compel.v generate.v initiate.v reach.v perform.v help.v have.v cause.v
+phone.n	sound.n telephone.n telecom.n speech.n
+blue.a	purple.a speculative.a depressed.a naughty.a down.a unhappy.a grey.a sad.a conservative.a
+order.v	rank.v send.v purchase.v manage.v plan.v arrange.v reserve.v request.v direct.v sort.v buy.v command.v instruct.v organise.v tell.v
+see.v	ascertain.v note.v understand.v consider.v observe.v discover.v view.v visit.v witness.v undergo.v establish.v watch.v notice.v learn.v find.v experience.v detect.v distinguish.v perceive.v
+test.n	assessment.n evaluation.n exam.n analysis.n examination.n check.n trial.n
+strain.n	stress.n anxiety.n breed.n effort.n tune.n stock.n pressure.n variety.n sort.n form.n tension.n worry.n group.n load.n line.n type.n kind.n burden.n music.n trace.n
+wind.n	blast.n gas.n breeze.n current.n air.n
+bring.v	create.v attract.v draw.v realise.v produce.v introduce.v generate.v present.v deliver.v carry.v make.v guide.v convey.v ruin.v initiate.v file.v transport.v gather.v return.v take.v call.v put.v get.v start.v incorporate.v shoot.v force.v move.v contribute.v
+paper.n	study.n document.n roll.n manuscript.n essay.n publication.n thesis.n newspaper.n report.n article.n journal.n presentation.n
+fire.v	sack.v launch.v shoot.v dismiss.v discharge.v
+lead.n	forefront.n star.n precedence.n opportunity.n prospect.n example.n direction.n guidance.n tip.n hint.n wire.n story.n cable.n leader.n head.n conduct.n initiative.n clue.n
+cry.v	weep.v call.v yell.v tear.v complain.v shout.v demand.v utter.v
+pass.v	send.v give.v succeed.v leak.v expire.v satisfy.v deliver.v transfer.v hand.v see.v authorise.v proceed.v adopt.v flow.v disappear.v occur.v go.v finish.v approve.v approach.v ratify.v experience.v
+still.a	static.a quiet.a calm.a peaceful.a smooth.a fixed.a
+external.a	outward.a outer.a foreign.a outside.a
+right.r	straight.r correctly.r directly.r properly.r totally.r just.r accurately.r well.r immediately.r exactly.r
+forward.r	ahead.r on.r earlier.r along.r over.r out.r forth.r
+shed.v	pass.v throw.v give.v transmit.v spill.v relinquish.v spread.v reveal.v shine.v discard.v lose.v disperse.v drop.v emit.v scatter.v
+instead.r	alternatively.r rather.r
+acquire.v	purchase.v gather.v gain.v secure.v achieve.v obtain.v get.v receive.v learn.v buy.v collect.v find.v
+call.v	label.v term.v dial.v address.v phone.v entitle.v describe.v ring.v request.v name.v designate.v telephone.v contact.v summon.v
+mission.n	operation.n work.n delegation.n project.n duty.n office.n objective.n negotiation.n purpose.n church.n aim.n charity.n arrival.n assignment.n task.n
+around.r	everywhere.r here.r round.r approximately.r roughly.r there.r over.r about.r
+go.v	travel.v run.v aim.v release.v try.v endure.v free.v leave.v undertake.v proceed.v reach.v pass.v take.v relax.v work.v walk.v rest.v start.v attack.v attempt.v operate.v move.v approach.v
+suspect.v	guess.v think.v imagine.v consider.v presume.v reckon.v feel.v believe.v assume.v question.v expect.v
+easy.a	simple.a possible.a common.a straightforward.a convenient.a accessible.a
+inner.a	inward.a enclosed.a spiritual.a close.a private.a interior.a internal.a inside.a original.a mental.a central.a
+acute.a	sharp.a urgent.a serious.a critical.a sensitive.a keen.a sudden.a grave.a intense.a severe.a
+hold.v	adhere.v support.v contain.v place.v retain.v position.v possess.v carry.v conduct.v store.v have.v keep.v stand.v convene.v handle.v take.v call.v clasp.v put.v believe.v grip.v clutch.v occupy.v maintain.v lift.v organise.v host.v own.v grasp.v
+caravan.n	traveller.n party.n train.n group.n band.n company.n vehicle.n convoy.n
+closely.r	neatly.r directly.r approximately.r together.r carefully.r jointly.r intently.r strongly.r narrowly.r intimately.r nearly.r
+shortly.r	presently.r sharply.r soon.r just.r abruptly.r immediately.r briefly.r quickly.r little.r
+strange.a	unlikely.a unfamiliar.a bizarre.a unknown.a different.a foreign.a unusual.a abnormal.a unexpected.a surprising.a alien.a peculiar.a odd.a weird.a
+hard.r	seriously.r fiercely.r severely.r tightly.r closely.r carefully.r violently.r heavily.r badly.r firmly.r sufficiently.r intently.r strongly.r
+stiff.a	firm.a strong.a frozen.a formal.a tough.a intense.a painful.a harsh.a powerful.a hard.a rigid.a sore.a good.a severe.a solid.a heavy.a
+tell.v	order.v explain.v describe.v communicate.v inform.v notify.v instruct.v assure.v
+come.v	report.v occur.v gather.v return.v encounter.v appear.v leave.v concern.v reach.v happen.v find.v fall.v get.v arrive.v spring.v notice.v join.v originate.v unite.v combine.v rally.v
+throw.v	focus.v discard.v place.v bring.v fling.v toss.v deliver.v put.v shoot.v chuck.v punch.v hurl.v demand.v pitch.v ask.v cast.v project.v fire.v
+function.n	operation.n working.n sequence.n job.n relation.n performance.n phenomenon.n correspondence.n purpose.n role.n result.n calculation.n feature.n task.n transformation.n equation.n activity.n
+close.n	conclusion.n end.n finish.n ending.n
+change.v	alter.v switch.v transform.v amend.v adjust.v modify.v shift.v vary.v update.v move.v evolve.v
+mood.n	atmosphere.n tone.n manner.n outlook.n disposition.n feeling.n humour.n form.n attitude.n temper.n mode.n
+mass.n	people.n volume.n quantity.n magnitude.n weight.n majority.n host.n density.n body.n means.n accumulation.n extent.n public.n crowd.n bulk.n shock.n
+tap.v	hit.v draw.v extract.v use.v appoint.v touch.v commission.v contact.v beat.v utilise.v recommend.v strike.v exploit.v select.v establish.v ask.v choose.v pat.v approach.v knock.v move.v mark.v
+suffer.v	bear.v acquire.v know.v accept.v encounter.v feel.v undergo.v have.v sustain.v endure.v experience.v tolerate.v
+full.a	generous.a highest.a whole.a complete.a maximum.a ample.a big.a entire.a total.a top.a
+possibly.r	potentially.r ever.r maybe.r perhaps.r reasonably.r necessarily.r
+touch.v	stir.v mention.v undertake.v handle.v affect.v stroke.v contact.v brush.v feel.v infect.v meet.v reach.v do.v study.v move.v consider.v accept.v influence.v
+close.r	near.r about.r almost.r
+now.r	currently.r lately.r recently.r presently.r today.r consequently.r just.r perhaps.r nowadays.r so.r well.r immediately.r since.r instantly.r
+earlier.r	previously.r beforehand.r formerly.r before.r sooner.r initially.r
+raw.a	exposed.a unfair.a harsh.a crude.a basic.a genuine.a bad.a naked.a bloody.a open.a natural.a rough.a
+education.n	study.n college.n schooling.n instruction.n teaching.n training.n learning.n knowledge.n place.n
+girl.n	lass.n miss.n female.n woman.n child.n
+soft.a	quiet.a weak.a gentle.a faint.a easy.a tender.a smooth.a flexible.a comfortable.a
+tender.a	delicate.a sympathetic.a young.a loving.a painful.a gentle.a fond.a kind.a sore.a soft.a great.a sensitive.a early.a
+mad.a	annoyed.a wild.a fast.a angry.a furious.a rapid.a crazy.a
+yard.n	property.n ground.n courtyard.n terrace.n enclosure.n garden.n patio.n depot.n metre.n lot.n lawn.n area.n
+scene.n	programme.n incident.n stage.n picture.n place.n landscape.n sphere.n business.n sight.n location.n area.n environment.n community.n segment.n event.n level.n image.n part.n arena.n sequence.n act.n setting.n site.n scale.n field.n
+saint.n	angel.n figure.n good.n
+only.r	barely.r merely.r recently.r just.r solely.r purely.r exclusively.r hardly.r
+light.a	mild.a trivial.a simple.a bright.a gentle.a faint.a entertaining.a small.a slight.a easy.a portable.a casual.a pale.a soft.a restricted.a cheerful.a minor.a fair.a
+work.v	act.v research.v operate.v investigate.v participate.v move.v employ.v engage.v function.v
+solid.a	firm.a strong.a concrete.a sound.a dry.a respectable.a accurate.a substantive.a substantial.a valid.a set.a genuine.a rigid.a reliable.a hard.a good.a convincing.a fixed.a secure.a solid.a stable.a
+secret.a	unknown.a hidden.a unpublished.a closed.a private.a inner.a confidential.a
+heap.n	bundle.n category.n state.n mound.n pile.n mess.n lump.n collection.n bin.n
+fresh.a	clean.a new.a relevant.a recent.a different.a vivid.a raw.a modern.a pure.a forward.a novel.a original.a clear.a bright.a
+prominent.a	prevalent.a leading.a notable.a significant.a famous.a important.a visible.a obvious.a noticeable.a major.a conspicuous.a
+terrible.a	unpleasant.a formidable.a negative.a awful.a frightening.a horrible.a bad.a dreadful.a appalling.a severe.a
+render.v	create.v leave.v give.v convert.v represent.v submit.v portray.v deliver.v use.v provide.v show.v make.v display.v
+way.n	route.n fashion.n manner.n method.n passage.n sense.n direction.n practice.n journey.n characteristic.n means.n respect.n aspect.n technique.n
+serious.a	acute.a real.a grave.a impressive.a heavy.a significant.a urgent.a important.a proper.a critical.a major.a considerable.a severe.a substantial.a concerned.a
+dismiss.v	sack.v discard.v see.v release.v discharge.v reject.v fire.v ignore.v remove.v excuse.v
+job.n	work.n bit.n function.n employment.n matter.n business.n career.n duty.n contract.n role.n position.n post.n place.n assignment.n task.n responsibility.n
+civil.a	personal.a individual.a ordinary.a polite.a general.a elected.a domestic.a public.a social.a internal.a private.a friendly.a civic.a thoughtful.a
+worthy.a	satisfactory.a worthwhile.a good.a acceptable.a respectable.a suitable.a beneficial.a charitable.a honourable.a excellent.a fitting.a
+field.n	domain.n pitch.n province.n holder.n sphere.n ground.n speciality.n activity.n licence.n discipline.n community.n environment.n region.n land.n resource.n section.n area.n box.n subject.n
+draw.v	withdraw.v attract.v play.v extract.v use.v claim.v employ.v make.v acquire.v earn.v bring.v tie.v schedule.v haul.v remove.v depict.v summon.v gather.v take.v select.v call.v exploit.v obtain.v get.v receive.v choose.v focus.v rely.v consult.v consider.v paint.v portray.v derive.v pull.v drag.v set.v
+remainder.n	rest.n balance.n residue.n surplus.n
+extended.a	additional.a comprehensive.a lengthy.a prolonged.a extensive.a increased.a long.a broad.a wide.a expanded.a
+shade.n	tone.n echo.n shadow.n suggestion.n degree.n shelter.n screen.n depth.n cover.n colour.n trace.n hint.n
+time.n	chance.n allocation.n instance.n interval.n deadline.n period.n opportunity.n era.n moment.n point.n instant.n occasion.n age.n day.n space.n
+entirely.r	wholly.r totally.r utterly.r continuously.r fully.r completely.r altogether.r exclusively.r
+live.a	real.a direct.a sustainable.a working.a active.a living.a running.a online.a
+clean.v	fix.v wash.v complete.v remedy.v remove.v restore.v empty.v accumulate.v repair.v tidy.v win.v prosper.v rectify.v clear.v wipe.v scrape.v finish.v mend.v correct.v
+true.a	real.a factual.a correct.a actual.a right.a accurate.a genuine.a
+away.r	ahead.r off.r repeatedly.r continuously.r elsewhere.r along.r apart.r aside.r out.r hence.r
+liberal.a	progressive.a social.a ample.a open.a free.a generous.a humanitarian.a
+think.v	guess.v recommend.v contemplate.v imagine.v consider.v reason.v analyse.v reckon.v feel.v anticipate.v believe.v assume.v suspect.v expect.v suppose.v
+about.r	somewhat.r round.r approximately.r roughly.r around.r of.r nearly.r
+tremendous.a	extraordinary.a huge.a vast.a terrible.a wonderful.a marvellous.a great.a enormous.a
+side.n	flank.n fringe.n hand.n shore.n ally.n part.n boundary.n team.n faction.n bank.n position.n view.n edge.n surface.n aspect.n area.n responsibility.n perspective.n
+cap.n	tip.n ceiling.n hat.n restriction.n top.n lid.n capital.n limit.n
+soil.n	earth.n ground.n stain.n compost.n layer.n land.n dirt.n
+match.n	competition.n equivalent.n contest.n marriage.n game.n correlation.n competitor.n link.n association.n fit.n correspondence.n partnership.n rival.n couple.n choice.n hit.n event.n counterpart.n
+loud.a	strong.a heavy.a disturbing.a powerful.a clear.a big.a conspicuous.a
+pot.n	pan.n prize.n weed.n bowl.n vessel.n tray.n container.n stake.n
+fall.v	land.v come.v take.v become.v tumble.v descend.v slip.v drop.v plunge.v fail.v
+poor.a	low.a weak.a unfortunate.a deprived.a inferior.a miserable.a inadequate.a bad.a developing.a unhappy.a unsatisfactory.a wretched.a sorry.a
+flat.a	absolute.a fixed.a thin.a straight.a shallow.a horizontal.a plain.a smooth.a total.a uniform.a level.a
+special.a	extraordinary.a unique.a additional.a particular.a exclusive.a wonderful.a abnormal.a outstanding.a memorable.a exceptional.a kind.a distinguished.a extra.a premium.a lovely.a peculiar.a important.a selected.a remarkable.a
+rather.r	somewhat.r quite.r instead.r more.r very.r fairly.r slightly.r sooner.r significantly.r
+clear.a	distinct.a pure.a clean.a certain.a sharp.a understandable.a transparent.a definite.a obvious.a fresh.a true.a plain.a evident.a apparent.a
+jam.n	congestion.n queue.n gig.n session.n
+board.n	administration.n table.n card.n panel.n display.n game.n forum.n group.n executive.n organisation.n site.n screen.n committee.n management.n
+really.r	totally.r truly.r absolutely.r actually.r very.r completely.r genuinely.r definitely.r indeed.r honestly.r exceptionally.r effectively.r extremely.r properly.r
+thus.r	consequently.r this.r accordingly.r so.r therefore.r there.r hence.r
+clear.v	free.v sort.v release.v take.v empty.v change.v improve.v cash.v tidy.v eliminate.v pass.v process.v move.v remove.v acquit.v authorise.v
+rhythm.n	pulse.n cycle.n pattern.n harmony.n form.n clock.n beat.n
+pound.n	hammer.n beat.n sterling.n weight.n prison.n enclosure.n store.n dollar.n lot.n cage.n quid.n lb.n
+rude.a	abrupt.a unpleasant.a primitive.a wild.a coarse.a crude.a basic.a awkward.a raw.a naughty.a offensive.a sudden.a rough.a
+late.r	behind.r lately.r recently.r
+new.a	distinct.a other.a additional.a latest.a recent.a different.a fresh.a current.a younger.a modern.a novel.a further.a original.a extra.a
+fundamental.a	vital.a radical.a elementary.a significant.a important.a underlying.a basic.a necessary.a major.a primary.a intrinsic.a essential.a central.a
+charge.v	run.v require.v impose.v dash.v cost.v attack.v demand.v take.v ask.v accuse.v storm.v rush.v levy.v fly.v
+decline.v	reduce.v reject.v deteriorate.v lessen.v weaken.v decrease.v fall.v refuse.v drop.v
+figure.n	image.n people.n representative.n account.n diagram.n character.n value.n person.n number.n individual.n amount.n picture.n organisation.n total.n calculation.n illustration.n entity.n leader.n
+bull.n	document.n crap.n nonsense.n cow.n rubbish.n male.n target.n centre.n warrant.n animal.n
+charge.n	fee.n command.n tariff.n issue.n payment.n cost.n offence.n allegation.n accusation.n prosecution.n authority.n control.n expense.n criticism.n power.n
+dry.a	boring.a dull.a wry.a empty.a flat.a
+straight.a	direct.a successive.a vertical.a correct.a continuous.a pure.a right.a accurate.a true.a honest.a smooth.a plain.a consecutive.a standard.a clear.a linear.a genuine.a level.a
+post.n	boundary.n mail.n stake.n date.n support.n appointment.n pole.n message.n employment.n station.n role.n position.n target.n fence.n marker.n announcement.n job.n crossing.n situation.n
+often.r	sometimes.r usually.r occasionally.r regularly.r commonly.r much.r generally.r frequently.r
+letter.n	document.n mail.n character.n communication.n message.n correspondence.n note.n

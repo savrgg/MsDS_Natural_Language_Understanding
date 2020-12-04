@@ -1,0 +1,135 @@
+\documentclass{article}
+
+%\usepackage{psfig}
+
+\setlength{\evensidemargin}{0in} \setlength{\oddsidemargin}{0in}
+\setlength{\textwidth}{6.7in} \setlength{\topmargin}{-1.1in}
+\setlength{\textheight}{10.5in}
+
+
+\usepackage{amssymb, amsthm, amstext, amsxtra, amsmath, amsfonts, amscd }
+\usepackage{graphicx, epsfig}
+\usepackage{comment}
+\usepackage{color}
+\usepackage{cleveref}
+\usepackage{listings}
+
+\def\E{\mathbb{E}}
+\def\pr{\mathbb{P}}
+
+\renewcommand\baselinestretch{1.2}
+
+\DeclareMathOperator{\sign}{sign}
+\DeclareMathOperator{\supp}{supp}
+
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\corr}{corr}
+
+\author{--,--}
+
+\date{27 January 2016}
+
+
+\title{Assignment 1: Distributional Models of Semantics}
+
+
+\begin{document}
+\maketitle
+\section{Question 1:}
+\subsection{item c) Cosine simmilarity in frequency space:}
+What are the similarity scores between house.n, home.n and time.n in the frequency space? Do you think these similarities reflect our intuition that house.n is most similar than home.n? 
+
+The similarity scores for this example are the following:
+\begin{itemize}
+\item{simmilarity between \textit{home.n} and \textit{house.n} = \textbf{0.812743856464}}
+\item{simmilarity between \textit{home.n} and \textit{time.n} = \textbf{0.818144793373}} 
+\item{simmilarity between \textit{house.n} and \textit{time.n} = \textbf{0.82359219053}} 
+\end{itemize}
+
+These similarity scores are too similar with the three comparisons. The most similar according to this metric is the items \textit{house.n} and \textit{time.n} that it is not intuitive. In conclusion, these do not reflect our intuition. 
+
+\subsection{item e) Cosine similarity in tf-idf space:}
+What are the similarity scores between \textit{house.n}, \textit{home.n} and \textit{time.n} in the tf-idf space? Does yout tf-idf space capture lexical similarity better than the frequency space?
+
+The similarity scores for this example are the following:
+\begin{itemize}
+\item{simmilarity between \textit{home.n} and \textit{house.n} = \textbf{0.644002976484}}
+\item{simmilarity between \textit{home.n} and \textit{time.n} = \textbf{0.54386864522}} 
+\item{simmilarity between \textit{house.n} and \textit{time.n} = \textbf{0.57753821538}} 
+\end{itemize}
+
+The \textit{tf-idf} space capture better the lexical simmilarity with these words. In fact, now we can distinguish that \textit{home.n} and \textit{house.n} are closer than the other two comparisons.
+
+\subsection{item f) Best parameters for word2vec}
+
+For this question, the best parameters given the tried mesh will be provided. For this, the combinations generated from the following parameters were tried:
+
+\begin{table}[ht!]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{|l|l|}
+\hline
+Parameter         & List                         \\ \hline
+Learning rate     & {[}0.01, 0.03, 0.05{]}       \\
+Downsampling rate & {[}0.0, 0.01, 0.001, 0.00001 \\
+Neg sampling      & {[}0, 5, 10{]}               \\ \hline
+\end{tabular}
+\end{table}
+
+And the best combination of parameters was (At least for the tried grid): Learning rate= .05; Downsampling rate = .001 and Neg Sampling = 10. Now, the best parameters are used to train with the full set. The general observations for this grid is that when the learning rate is bigger, better the model. Also, when the negative sampling is bigger, the model is better. For the downsampling rate, when is 0, the model performs bad in terms of accuracy.
+
+\subsection{item g) Cosine simmilarities for word2vec}
+What are the similarity scores between \textit{house.n}, \textit{home.n} and \textit{time.n} in your word2 vec model? Does the word2vec model capture the similarities better than the \textit{fi-idf} space?
+
+The similarity scores for this example are the following:
+\begin{itemize}
+\item{simmilarity between \textit{home.n} and \textit{house.n} = \textbf{0.579456296125}}
+\item{simmilarity between \textit{home.n} and \textit{time.n} = \textbf{0.379887119346}} 
+\item{simmilarity between \textit{house.n} and \textit{time.n} = \textbf{0.190818908}} 
+\end{itemize}
+What are the similarity scores between \textit{house.n}, \textit{home.n} and \textit{time.n} in your word2 vec model? Does the word2vec model capture the similarities better than the tf-idf and word2vec spaces?
+
+Although the tf-idf captures better the simmilarity between house and home and can make a difference between house-time and home-time, it still too close. The diffence is of only .10; on the other hand, for the word2vec model, the differences are much bigger (.20 and .38).
+
+\subsection{item i) Cosine simmilarities for LDA}
+The similarity scores for this example are the following:
+\begin{itemize}
+\item{simmilarity between \textit{home.n} and \textit{house.n} = \textbf{0.799031032467}}
+\item{simmilarity between \textit{home.n} and \textit{time.n} = \textbf{0.0515955364453}} 
+\item{simmilarity between \textit{house.n} and \textit{time.n} = \textbf{0.0342907459548}} 
+\end{itemize}
+
+
+This model is much better than the previous ones, now the simmilarity of house-time and home-time is close to 0. On the other hand, the simmilarity of home-house is close to .8, a very good number in term of the cosine.
+\subsection{item j)}
+Going through the topics learned by your LDA model, are there any meaningful ones which you can identify?
+
+In this section we can be meaningful, we have to not consider the most frequent words.
+If these are considered, the most probable will be verbs like have, can, make.
+
+A interesting topic that I found was related to violence, that contains crime, sex, assault, another one was related to persons, like young, man, woman, people. If everytopic is analysed, then you can obtain interesting words related to them.
+
+\section{Question 2:}
+
+\subsection{item e) Precision and Recall for all the models:}
+\begin{table}[ht!]
+\centering
+\caption{My caption}
+\label{table1}
+\begin{tabular}{|l|ll|}
+\hline
+Model                     & Precision & Recall \\ \hline
+Addition - tf-idf         & 8.98      & 8.89   \\
+Multiplication - tf-idf   & 13.50     & 13.37  \\
+Addition - word2vec       & 11.92     & 11.92  \\
+Multiplication - word2vec & 6.48      & 6.48   \\
+LDA                       & 12.42     & 10.68       \\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{item f)}
+In this section we can see that the multiplicative models work much better in tf-idf. On the other hand, the additive model works much better with the word2 vec and the LDA. 
+This makes sense because in theory the models that works with the complete space (for example, tf-idf or the original frequency space) is better with multiplicative. And LDa and word2vec that works in a "reduced" space is better with addition. 
+\end{document}
